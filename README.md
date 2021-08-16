@@ -1,3 +1,1 @@
-# Ultimate-SUVAT-Calculator-Grapher---SKR
-Forgive me for the boastful title - I haven't found any SUVAT calculator as in-depth as this (at least a 1-Dimensional one). This code takes user inputs and calculates missing values and graphs them.  S = Displacement, U = Initial Velocity, V = Final Velocity, A = Acceleration, T = Time Enter 3 known SUVAT variables and the calculator will find the remaining two as well as the maximum displacement and projected trajectory. Displacement, Velocity &amp; Acceleration-Time graphs will also be plotted as well as points of interest on each graph. A projection of the projectile's path will also be plotted as a dashed line on the same graph. Primarily uses SUVAT rearrangements over iterative processes as I am a Physicist first, and Programmer by hobby. 
-The code's extensive length also accounts for errors that may occur, showing clear error messages in all possible cases of error which occur in SUVAT calculations 
+
